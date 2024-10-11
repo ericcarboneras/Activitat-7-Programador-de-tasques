@@ -1,4 +1,4 @@
-# Activitat1
+# Activitat 1
 
 1. Obra el bloc de notes
 <img src="Captura de pantalla 2024-10-11 193359.png">
