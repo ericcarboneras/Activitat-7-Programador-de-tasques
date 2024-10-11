@@ -4,3 +4,31 @@
 1. Obra el bloc de notes
 <img src="Captura de pantalla 2024-10-11 193359.png">
 
+
+
+2. Dins poseu el que tinc jo en el Bloc de notes
+<img src="Captura de pantalla 2024-10-11 193359.png">
+
+
+
+<img src="Captura de pantalla 2024-10-11 193359.png">
+
+
+<img src="Captura de pantalla 2024-10-11 193359.png">
+
+
+<img src="Captura de pantalla 2024-10-11 193359.png">
+
+
+<img src="Captura de pantalla 2024-10-11 193359.png">
+
+
+<img src="Captura de pantalla 2024-10-11 193359.png">
+
+
+<img src="Captura de pantalla 2024-10-11 193359.png">
+
+
+<img src="Captura de pantalla 2024-10-11 193359.png">
+
+
