@@ -13,7 +13,7 @@
 - Programa el reinici de l'ordinador per a un moment de la classe
 - Mostra tot el procés i el resultat
 
-[Activitat 2](activitat1.md)
+[Activitat 2](activitat2.md)
 
 
 
@@ -22,7 +22,7 @@
 - Comproba que funciona
 - Mostra tot el procés i el resultat
 
-[Activitat 3](activitat1.md)
+[Activitat 3](activitat3.md)
 
 
 
@@ -31,7 +31,7 @@
 - Comproba que funciona
 - Mostra tot el procés i el resultat
 
-[Activitat 4](activitat1.md)
+[Activitat 4](activitat4.md)
 
 
 
@@ -41,6 +41,6 @@
 - Comproba que funciona
 - Mostra tot el procés i el resultat
 
-[Activitat 5](activitat1.md)
+[Activitat 5](activitat5.md)
 
   
