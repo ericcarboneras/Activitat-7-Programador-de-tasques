@@ -1,25 +1,13 @@
 # Activitat 4
 
-1. Obra el bloc de notes
-<img src="Captura de pantalla 2024-10-11 193359.png">
+1. Obra el Programador de tareas i a la dreta el doneu a "Crear tarea" i en "General" poseu el nom que vulgeu hi ho configureu per a "Windows server 2016"
+<img src="Captura de pantalla 2024-10-12 154831.png">
 
 
 
-2. Dins poseu el que tinc jo en el Bloc de notes i en Archivo el doneu a Guardar y el poseu el nom que vulgeu amb .cmd (El guardeu tambe on us agradi mes)
-<img src="Captura de pantalla 2024-10-11 193541.png">
+2. A la part de "Desencadenadores" poseu la opció de "Al iniciar la sesión" i el doneu a Aceptar
+<img src="Captura de pantalla 2024-10-12 154920.png">
 
 
-3. Ara obriu el Programador de tareas
-<img src="Captura de pantalla 2024-10-11 193743.png">
-
-
-4. Al obrirse el Programa de tareas, el doneu a la dreta "Crear tarea" i se us obrira aquesta finestra
-<img src="Captura de pantalla 2024-10-11 193903.png">
-
-
-5. A on posa Nombre, poseu el nom que vulgeu posar i ho configureu per a Windows Server 2016, despres el doneu al apartat "Desencadenadores"
-<img src="Captura de pantalla 2024-10-11 194124.png">
-
-
-6. En iniciar la tarea, poseu "Segun una programación" i en Inicio, poseu el dia i la hora que vulgeu que us surti el Recordatori, ja al acabar el doneu a Aceptar
-<img src="Captura de pantalla 2024-10-11 194401.png">
+3. I a la part de "Acciones" el doneu a "Examinar" i busqueu al disc C: en la lupeta d'adalt poseu: iexplorer, i el doneu click i a "Aceptar" i finalment a la part de "Agregar argumentos" poseu el URL del institut, el doneu a "Aceptar" i altra vegada a "Aceptar" i ja el teniu
+<img src="Captura de pantalla 2024-10-12 155827.png">
